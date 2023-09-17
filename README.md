@@ -6,4 +6,3 @@ site de compilado de links.
 
 template: https://github.com/johnggli/linktree
 
-contador de visitas: https://www.revolvermaps.com/
